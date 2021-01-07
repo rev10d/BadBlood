@@ -25,7 +25,9 @@ $basescriptPath = Get-ScriptDirectory
 $totalscripts = 7
 
 $i = 0
-{
+cls
+$badblood = 'badblood'
+if($badblood -eq 'badblood'){
    $Domain = Get-addomain
     Write-Progress -Activity "Random Stuff into A domain" -Status "Progress:" -PercentComplete ($i/$totalscripts*100)
 
