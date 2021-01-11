@@ -2,10 +2,9 @@ Customized Version
 ==================
 This fork of BadBlood has the brakes off. Running the .ps1 script will turn your production AD into a disaster zone. 
 
-===========================
-===========================
+
 PROCEED WITH UTMOST CAUTION
-===========================
+==========
 
 BadBlood
 ========
